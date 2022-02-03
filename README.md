@@ -1,2 +1,2 @@
 # mozilla-splash-page
-MDN practice page // 
+MDN practice page // Helps practice HTML Responsive Images
